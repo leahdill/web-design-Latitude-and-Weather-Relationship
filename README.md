@@ -4,4 +4,4 @@ In this challenge, we were tasked with presenting data and conclusions from a pa
 
 Result:
 
-https://leahgraced.github.io/web-design-challenge/
+https://leahdill.github.io/web-design-challenge/
